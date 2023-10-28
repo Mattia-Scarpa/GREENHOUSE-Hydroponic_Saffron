@@ -1,0 +1,2648 @@
+HEAT: 	INITIALIZED
+2023-10-26 23:24:09.683338	HEAT: 	OFF
+LGHT: 	INITIALIZED
+2023-10-26 23:24:09.698346	LGHT: 	OFF
+FAN INITIALIZED
+2023-10-26 23:24:09.710740	FAN : 	OFF
+AIR : 	INITIALIZED
+2023-10-26 23:24:09.711045	AIR : 	OFF
+PUMP: 	INITIALIZED
+2023-10-26 23:24:09.711131	PUMP: 	OFF
+Airstone thread started
+Waterpump thread started
+Heater thread started
+Light thread started
+Fan thread started
+2023-10-26 23:24:13.315640	HEAT-> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:24:13.315848	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:24:13.840341	FAN -> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:24:13.840550	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:24:13.840597	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:25:29.961462	FAN -> 	Temperature=17.0°, Humidity=97.4%
+2023-10-26 23:25:29.961804	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:25:29.961936	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:25:31.960800	HEAT-> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:25:31.960946	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:26:30.487638	FAN -> 	Temperature=17.0°, Humidity=97.4%
+2023-10-26 23:26:30.487968	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:26:30.488099	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:26:32.486473	HEAT-> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:26:32.486785	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:27:33.012307	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:27:33.012616	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:27:36.075208	FAN -> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:27:36.075523	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:27:36.075654	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:28:33.538228	HEAT-> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:28:33.538560	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:28:36.601104	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:28:36.601407	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:28:36.601536	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:29:34.064163	HEAT-> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:29:34.064488	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:29:37.126906	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:29:37.127259	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:29:37.127391	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:30:34.590046	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:30:34.590353	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:30:37.652898	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:30:37.653194	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:30:37.653317	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:31:35.115989	HEAT-> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:31:35.116254	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:31:38.178909	FAN -> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:31:38.179205	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:31:38.179304	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:32:35.642067	HEAT-> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:32:35.643226	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:32:38.704793	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:32:38.705087	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:32:38.705196	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:33:36.169449	HEAT-> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:33:36.170911	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:33:39.230724	FAN -> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:33:39.231069	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:33:39.231190	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:34:36.697484	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:34:36.697770	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:34:39.756777	FAN -> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:34:39.757923	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:34:39.758798	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:35:37.223427	HEAT-> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:35:37.224721	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:35:40.285038	FAN -> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:35:40.285943	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:35:40.286098	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:36:37.751166	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:36:37.752297	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:36:40.811647	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:36:40.811964	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:36:40.812088	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:37:38.278504	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:37:38.279835	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:37:41.337658	FAN -> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:37:41.337957	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:37:41.338066	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:38:38.806241	HEAT-> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:38:38.807180	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:38:41.863623	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:38:41.863956	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:38:41.864080	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:39:39.332665	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:39:39.332973	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:39:42.389557	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:39:42.389882	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:39:42.390006	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:40:39.858542	HEAT-> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:40:39.858861	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:40:42.915664	FAN -> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:40:42.916013	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:40:42.916135	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:41:42.914542	HEAT-> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:41:42.914861	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:41:43.441561	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:41:43.441935	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:41:43.442067	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:42:43.440421	HEAT-> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:42:43.441566	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:42:46.492687	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:42:46.492980	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:42:46.493087	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:43:43.967921	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:43:43.968214	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:43:47.018655	FAN -> 	Temperature=16.9°, Humidity=97.5%
+2023-10-26 23:43:47.018996	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:43:47.019132	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:44:44.493714	HEAT-> 	Temperature=16.9°, Humidity=97.6%
+2023-10-26 23:44:44.494058	HEAT: 	ON
+2023-10-26 23:44:44.494185	HEAT: 	 ON
+2023-10-26 23:44:44.494290	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:44:47.543901	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:44:47.544063	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:44:47.544110	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:45:45.019838	HEAT-> 	Temperature=16.9°, Humidity=97.7%
+2023-10-26 23:45:45.020142	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:45:48.069501	FAN -> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:45:48.069878	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:45:48.070002	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:46:45.545717	HEAT-> 	Temperature=17.0°, Humidity=97.8%
+2023-10-26 23:46:45.546025	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:46:48.595637	FAN -> 	Temperature=16.9°, Humidity=97.8%
+2023-10-26 23:46:48.595984	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:46:48.596109	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:47:48.602019	HEAT-> 	Temperature=16.9°, Humidity=97.7%
+2023-10-26 23:47:48.602464	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:47:51.652801	FAN -> 	Temperature=17.0°, Humidity=97.8%
+2023-10-26 23:47:51.653101	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:47:51.653226	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:48:49.128198	HEAT-> 	Temperature=17.0°, Humidity=97.8%
+2023-10-26 23:48:49.128507	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:48:52.178046	FAN -> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:48:52.178202	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:48:52.178246	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:49:49.653279	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:49:49.653812	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:49:52.703785	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:49:52.704091	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:49:52.704214	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:50:50.179626	HEAT-> 	Temperature=16.9°, Humidity=97.7%
+2023-10-26 23:50:50.179923	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:50:53.229755	FAN -> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:50:53.230073	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:50:53.230202	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:51:50.704907	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:51:50.705075	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:51:53.755028	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:51:53.755891	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:51:53.756264	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:52:51.230486	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:52:51.230811	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:52:54.282051	FAN -> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:52:54.283202	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:52:54.283345	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:53:51.756355	HEAT-> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:53:51.756637	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:53:54.808863	FAN -> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:53:54.809166	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:53:54.809290	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:54:52.281436	HEAT-> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:54:52.281592	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:54:55.334148	FAN -> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:54:55.334349	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:54:55.334398	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:55:52.807030	HEAT-> 	Temperature=17.0°, Humidity=97.7%
+2023-10-26 23:55:52.807333	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:55:55.859862	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:55:55.860171	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:55:55.860294	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:56:53.332836	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:56:53.333162	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:56:56.386089	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:56:56.386398	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:56:56.386520	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:57:53.858655	HEAT-> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:57:53.859063	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:57:56.912178	FAN -> 	Temperature=17.0°, Humidity=97.6%
+2023-10-26 23:57:56.912498	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:57:56.912620	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:58:54.384633	HEAT-> 	Temperature=17.0°, Humidity=97.5%
+2023-10-26 23:58:54.384926	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:58:57.438182	FAN -> 	Temperature=17.1°, Humidity=97.5%
+2023-10-26 23:58:57.438490	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:58:57.438612	FAN :	Waiting for 1 minute before next check
+2023-10-26 23:59:54.909848	HEAT-> 	Temperature=17.1°, Humidity=97.5%
+2023-10-26 23:59:54.910016	HEAT:	Waiting for 1 minute before next check
+2023-10-26 23:59:57.964301	FAN -> 	Temperature=17.1°, Humidity=97.5%
+2023-10-26 23:59:57.964629	FAN : 	No criteria activated - keeping fan off
+2023-10-26 23:59:57.964752	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:00:55.435558	HEAT-> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:00:55.435886	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:00:58.490200	FAN -> 	Temperature=17.1°, Humidity=97.6%
+2023-10-27 00:00:58.490513	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:00:58.490622	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:01:55.961405	HEAT-> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:01:55.961707	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:01:59.016219	FAN -> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:01:59.016564	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:01:59.016691	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:02:56.487675	HEAT-> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:02:56.487983	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:02:59.542242	FAN -> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:02:59.542570	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:02:59.542695	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:03:57.013742	HEAT-> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:03:57.014049	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:04:00.068300	FAN -> 	Temperature=17.1°, Humidity=97.5%
+2023-10-27 00:04:00.068620	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:04:00.068745	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:04:57.539646	HEAT-> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:04:57.539926	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:05:03.125518	FAN -> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:05:03.125837	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:05:03.125961	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:05:58.065457	HEAT-> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:05:58.065741	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:06:03.651565	FAN -> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:06:03.651894	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:06:03.652021	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:06:58.591364	HEAT-> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:06:58.592684	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:07:04.177582	FAN -> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:07:04.179041	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:07:04.180087	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:07:59.119236	HEAT-> 	Temperature=17.1°, Humidity=97.4%
+2023-10-27 00:07:59.120583	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:08:04.706548	FAN -> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:08:04.707885	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:08:04.708901	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:08:59.647008	HEAT-> 	Temperature=17.1°, Humidity=97.2%
+2023-10-27 00:08:59.648160	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:09:05.235444	FAN -> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:09:05.236845	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:09:05.237869	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:10:00.174508	HEAT-> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:10:00.175715	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:10:05.764360	FAN -> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:10:05.765657	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:10:05.766673	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:11:00.702044	HEAT-> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:11:00.703382	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:11:06.293189	FAN -> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:11:06.294534	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:11:06.295596	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:12:01.229862	HEAT-> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:12:01.231072	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:12:06.822364	FAN -> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:12:06.823707	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:12:06.824723	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:13:01.756869	HEAT-> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:13:01.757175	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:13:07.351076	FAN -> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:13:07.352353	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:13:07.353372	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:14:02.282694	HEAT-> 	Temperature=17.2°, Humidity=97.2%
+2023-10-27 00:14:02.283024	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:14:10.409712	FAN -> 	Temperature=17.1°, Humidity=97.2%
+2023-10-27 00:14:10.411036	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:14:10.412072	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:15:02.808657	HEAT-> 	Temperature=17.1°, Humidity=97.3%
+2023-10-27 00:15:02.808975	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:15:10.938452	FAN -> 	Temperature=17.1°, Humidity=97.2%
+2023-10-27 00:15:10.939815	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:15:10.940835	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:16:03.334504	HEAT-> 	Temperature=17.2°, Humidity=97.3%
+2023-10-27 00:16:03.335827	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:16:11.467256	FAN -> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:16:11.467600	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:16:11.467724	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:17:03.862261	HEAT-> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:17:03.863488	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:17:14.524385	FAN -> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:17:14.524701	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:17:14.524824	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:18:04.389642	HEAT-> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:18:04.390935	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:18:15.050311	FAN -> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:18:15.050625	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:18:15.050748	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:19:04.917315	HEAT-> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:19:04.917615	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:19:15.576292	FAN -> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:19:15.576572	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:19:15.576680	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:20:05.443225	HEAT-> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:20:05.444390	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:20:18.633374	FAN -> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:20:18.633688	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:20:18.633810	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:21:08.501240	HEAT-> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:21:08.502525	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:21:19.159429	FAN -> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:21:19.160749	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:21:19.161759	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:22:09.028954	HEAT-> 	Temperature=17.2°, Humidity=97.1%
+2023-10-27 00:22:09.030119	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:22:19.688072	FAN -> 	Temperature=17.2°, Humidity=96.9%
+2023-10-27 00:22:19.688357	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:22:19.688464	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:23:09.556385	HEAT-> 	Temperature=17.2°, Humidity=97.0%
+2023-10-27 00:23:09.557726	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:23:20.213938	FAN -> 	Temperature=17.2°, Humidity=96.9%
+2023-10-27 00:23:20.214256	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:23:20.214379	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:24:10.084067	HEAT-> 	Temperature=17.2°, Humidity=96.9%
+2023-10-27 00:24:10.085075	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:24:20.739865	FAN -> 	Temperature=17.2°, Humidity=96.9%
+2023-10-27 00:24:20.740993	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:24:20.741871	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:25:10.611290	HEAT-> 	Temperature=17.2°, Humidity=97.0%
+2023-10-27 00:25:10.612575	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:25:21.268065	FAN -> 	Temperature=17.2°, Humidity=97.0%
+2023-10-27 00:25:21.269359	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:25:21.270371	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:26:11.138926	HEAT-> 	Temperature=17.2°, Humidity=96.9%
+2023-10-27 00:26:11.140261	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:26:21.796711	FAN -> 	Temperature=17.2°, Humidity=96.9%
+2023-10-27 00:26:21.798009	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:26:21.799047	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:27:11.666607	HEAT-> 	Temperature=17.2°, Humidity=96.9%
+2023-10-27 00:27:11.668083	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:27:22.325335	FAN -> 	Temperature=17.2°, Humidity=96.8%
+2023-10-27 00:27:22.326633	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:27:22.327690	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:28:12.194421	HEAT-> 	Temperature=17.2°, Humidity=96.9%
+2023-10-27 00:28:12.195604	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:28:22.854043	FAN -> 	Temperature=17.2°, Humidity=96.8%
+2023-10-27 00:28:22.855383	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:28:22.856412	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:29:12.721819	HEAT-> 	Temperature=17.2°, Humidity=96.8%
+2023-10-27 00:29:12.723161	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:29:23.382725	FAN -> 	Temperature=17.2°, Humidity=96.9%
+2023-10-27 00:29:23.384085	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:29:23.385107	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:30:13.249590	HEAT-> 	Temperature=17.2°, Humidity=96.8%
+2023-10-27 00:30:13.250888	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:30:23.911476	FAN -> 	Temperature=17.2°, Humidity=96.8%
+2023-10-27 00:30:23.912794	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:30:23.913807	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:31:13.777308	HEAT-> 	Temperature=17.2°, Humidity=96.8%
+2023-10-27 00:31:13.778626	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:31:24.440238	FAN -> 	Temperature=17.2°, Humidity=96.7%
+2023-10-27 00:31:24.441559	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:31:24.442582	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:32:14.305068	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:32:14.306365	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:32:24.968984	FAN -> 	Temperature=17.2°, Humidity=96.7%
+2023-10-27 00:32:24.970284	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:32:24.971341	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:33:14.832864	HEAT-> 	Temperature=17.2°, Humidity=96.7%
+2023-10-27 00:33:14.834173	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:33:25.497689	FAN -> 	Temperature=17.2°, Humidity=96.7%
+2023-10-27 00:33:25.498014	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:33:25.498138	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:34:15.360616	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:34:15.361915	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:34:26.023664	FAN -> 	Temperature=17.2°, Humidity=96.7%
+2023-10-27 00:34:26.023970	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:34:26.024093	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:35:15.888308	HEAT-> 	Temperature=17.2°, Humidity=96.7%
+2023-10-27 00:35:15.889612	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:35:26.549625	FAN -> 	Temperature=17.2°, Humidity=96.7%
+2023-10-27 00:35:26.549960	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:35:26.550084	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:36:16.416049	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:36:16.417371	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:36:27.075942	FAN -> 	Temperature=17.3°, Humidity=96.6%
+2023-10-27 00:36:27.076264	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:36:27.076386	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:37:16.943777	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:37:16.945065	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:37:27.602101	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:37:27.602430	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:37:27.602556	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:38:17.471785	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:38:17.472082	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:38:28.128067	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:38:28.128388	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:38:28.128510	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:39:17.997797	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:39:17.998086	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:39:28.653873	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:39:28.654195	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:39:28.654321	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:40:18.523597	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:40:18.523908	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:40:31.704932	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:40:31.706260	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:40:31.707308	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:41:19.049343	HEAT-> 	Temperature=17.2°, Humidity=96.4%
+2023-10-27 00:41:19.050516	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:41:32.233612	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:41:32.234919	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:41:32.235981	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:42:19.576744	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:42:19.577081	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:42:32.762263	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:42:32.763204	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:42:32.763350	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:43:22.632368	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:43:22.633705	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:43:33.288776	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:43:33.289094	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:43:33.289290	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:44:23.160100	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:44:23.161436	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:44:33.814684	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:44:33.815005	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:44:33.815137	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:45:23.687798	HEAT-> 	Temperature=17.2°, Humidity=96.4%
+2023-10-27 00:45:23.689086	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:45:34.340533	FAN -> 	Temperature=17.2°, Humidity=96.4%
+2023-10-27 00:45:34.340832	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:45:34.340940	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:46:24.215583	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:46:24.215904	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:46:34.866283	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:46:34.866569	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:46:34.866675	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:47:24.741311	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:47:24.741613	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:47:35.392219	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 00:47:35.392542	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:47:35.392664	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:48:25.267171	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:48:25.267476	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:48:35.918100	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:48:35.918395	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:48:35.918517	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:49:25.792933	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:49:25.793232	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:49:36.444001	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:49:36.444334	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:49:36.444459	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:50:26.318717	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:50:26.319055	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:50:36.969864	FAN -> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 00:50:36.970194	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:50:36.970319	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:51:26.844534	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:51:26.844863	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:51:37.496104	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:51:37.496406	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:51:37.496527	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:52:27.370310	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:52:27.370624	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:52:38.022234	FAN -> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 00:52:38.022539	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:52:38.022664	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:53:27.896436	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:53:27.896742	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:53:38.548130	FAN -> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 00:53:38.548443	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:53:38.548567	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:54:28.422547	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:54:28.422882	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:54:39.073983	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:54:39.074299	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:54:39.074423	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:55:28.948501	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 00:55:28.949821	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:55:39.599956	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:55:39.601264	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:55:39.602284	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:56:29.476193	HEAT-> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 00:56:29.476523	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:56:40.128640	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:56:40.128957	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:56:40.129081	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:57:30.002009	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:57:30.002319	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:57:40.654505	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:57:40.654803	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:57:40.654925	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:58:30.527852	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:58:30.528159	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:58:41.180419	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:58:41.180743	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:58:41.180866	FAN :	Waiting for 1 minute before next check
+2023-10-27 00:59:31.053646	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:59:31.053953	HEAT:	Waiting for 1 minute before next check
+2023-10-27 00:59:41.706299	FAN -> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 00:59:41.706621	FAN : 	No criteria activated - keeping fan off
+2023-10-27 00:59:41.706744	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:00:31.579516	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:00:31.579839	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:00:42.232168	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 01:00:42.232483	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:00:42.232593	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:01:32.105321	HEAT-> 	Temperature=17.2°, Humidity=96.6%
+2023-10-27 01:01:32.105611	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:01:42.758014	FAN -> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:01:42.758330	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:01:42.758453	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:02:32.631123	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:02:32.631440	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:02:43.283915	FAN -> 	Temperature=17.2°, Humidity=96.5%
+2023-10-27 01:02:43.284253	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:02:43.284377	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:03:33.156922	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:03:33.158232	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:03:43.809857	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:03:43.810200	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:03:43.810323	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:04:33.684696	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:04:33.685995	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:04:44.335970	FAN -> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:04:44.336279	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:04:44.336402	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:05:34.212458	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:05:34.213619	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:05:44.861915	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:05:44.862225	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:05:44.862347	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:06:34.739901	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:06:34.740186	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:06:45.387920	FAN -> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:06:45.388226	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:06:45.388425	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:07:35.265713	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:07:35.266035	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:07:45.913878	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:07:45.914183	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:07:45.914311	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:08:35.791626	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:08:35.791939	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:08:46.439958	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:08:46.440271	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:08:46.440395	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:09:36.317419	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:09:36.318723	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:09:46.965878	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:09:46.966210	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:09:46.966336	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:10:36.845166	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:10:36.845492	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:10:47.491880	FAN -> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:10:47.492202	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:10:47.492325	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:11:37.370985	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:11:37.371287	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:11:48.018243	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:11:48.018538	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:11:48.018666	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:12:37.896812	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:12:37.897135	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:12:48.544533	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:12:48.544838	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:12:48.544961	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:13:38.422796	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:13:38.423130	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:13:49.070455	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:13:49.070759	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:13:49.070862	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:14:38.948871	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:14:38.949107	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:14:49.596402	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:14:49.597737	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:14:49.598752	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:15:39.474681	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:15:39.476074	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:15:50.125137	FAN -> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:15:50.126280	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:15:50.127191	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:16:40.002532	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:16:40.002852	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:16:50.653347	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:16:50.653656	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:16:50.653779	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:17:40.528277	HEAT-> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:17:40.528584	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:17:51.179323	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:17:51.179645	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:17:51.179769	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:18:41.054079	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:18:41.054384	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:18:51.705261	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:18:51.705585	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:18:51.705709	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:19:41.579917	HEAT-> 	Temperature=17.1°, Humidity=96.6%
+2023-10-27 01:19:41.580245	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:19:52.231297	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:19:52.232436	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:19:52.232586	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:20:42.105755	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:20:42.106080	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:20:52.758034	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:20:52.759365	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:20:52.760412	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:21:42.631733	HEAT-> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:21:42.632040	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:21:53.286761	FAN -> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:21:53.287943	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:21:53.288822	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:22:43.157426	HEAT-> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:22:43.157732	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:22:53.814898	FAN -> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:22:53.815658	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:22:53.815774	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:23:43.683253	HEAT-> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:23:43.683537	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:23:54.341187	FAN -> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:23:54.343467	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:23:54.344602	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:24:44.208963	HEAT-> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:24:44.209282	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:24:54.870339	FAN -> 	Temperature=17.1°, Humidity=96.5%
+2023-10-27 01:24:54.870876	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:24:54.871271	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:25:44.734755	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:25:44.735217	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:25:55.396967	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:25:55.398295	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:25:55.399356	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:26:45.260719	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:26:45.261883	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:26:55.925654	FAN -> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:26:55.926945	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:26:55.928008	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:27:45.788185	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:27:45.788491	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:27:56.454264	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:27:56.454572	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:27:56.454695	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:28:46.313933	HEAT-> 	Temperature=17.1°, Humidity=96.4%
+2023-10-27 01:28:46.314243	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:28:56.980166	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:28:56.980483	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:28:56.980606	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:29:46.839738	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:29:46.840021	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:29:57.506083	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:29:57.506467	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:29:57.506592	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:30:47.365515	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:30:47.365831	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:30:58.032073	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:30:58.032382	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:30:58.032506	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:31:47.891375	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:31:47.891676	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:31:58.558150	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:31:58.558453	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:31:58.558576	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:32:48.417090	HEAT-> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:32:48.417352	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:33:01.615580	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:33:01.615890	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:33:01.616012	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:33:48.943030	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:33:48.944149	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:34:02.141488	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:34:02.142795	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:34:02.143866	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:34:49.470365	HEAT-> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:34:49.471717	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:35:02.670133	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:35:02.670418	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:35:02.670525	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:35:49.998010	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:35:49.999335	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:36:03.195941	FAN -> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:36:03.196242	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:36:03.196365	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:36:50.525682	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:36:50.527018	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:37:03.721730	FAN -> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:37:03.722031	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:37:03.722153	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:37:51.053340	HEAT-> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:37:51.054675	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:38:04.247554	FAN -> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:38:04.247866	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:38:04.247990	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:38:51.581096	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:38:51.582388	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:39:04.773462	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:39:04.774627	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:39:04.775549	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:39:52.108795	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:39:52.110115	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:40:05.301723	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:40:05.303108	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:40:05.304157	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:40:52.636529	HEAT-> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:40:52.636808	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:41:08.360391	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:41:08.361719	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:41:08.362744	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:41:55.691745	HEAT-> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:41:55.692048	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:42:08.889060	FAN -> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:42:08.889352	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:42:08.889459	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:42:56.217446	HEAT-> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:42:56.217778	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:43:09.415013	FAN -> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:43:09.415340	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:43:09.415467	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:43:56.743275	HEAT-> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:43:56.743586	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:44:09.941114	FAN -> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:44:09.941429	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:44:09.941553	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:44:57.268961	HEAT-> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:44:57.269294	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:45:10.467192	FAN -> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:45:10.467514	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:45:10.467637	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:45:57.794663	HEAT-> 	Temperature=17.1°, Humidity=96.2%
+2023-10-27 01:45:57.796116	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:46:10.993069	FAN -> 	Temperature=17.1°, Humidity=96.3%
+2023-10-27 01:46:10.993355	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:46:10.993461	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:46:58.322569	HEAT-> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:46:58.324018	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:47:11.518954	FAN -> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:47:11.519311	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:47:11.519437	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:47:58.850400	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:47:58.852009	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:48:12.044965	FAN -> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:48:12.045282	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:48:12.045405	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:48:59.378525	HEAT-> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:48:59.378847	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:49:12.570807	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:49:12.572160	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:49:12.573178	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:49:59.904576	HEAT-> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:49:59.904848	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:50:13.099539	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:50:13.100852	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:50:13.101860	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:51:00.430608	HEAT-> 	Temperature=17.0°, Humidity=96.0%
+2023-10-27 01:51:00.430925	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:51:13.628049	FAN -> 	Temperature=17.0°, Humidity=96.0%
+2023-10-27 01:51:13.629339	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:51:13.630349	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:52:00.956708	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 01:52:00.957007	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:52:14.156658	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:52:14.157974	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:52:14.159026	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:53:01.482314	HEAT-> 	Temperature=17.0°, Humidity=96.0%
+2023-10-27 01:53:01.482633	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:53:14.685393	FAN -> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:53:14.686783	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:53:14.687850	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:54:02.008081	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:54:02.009551	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:54:15.214150	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:54:15.215609	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:54:15.216703	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:55:02.536046	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:55:02.537329	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:55:15.743217	FAN -> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:55:15.744351	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:55:15.745226	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:56:03.063743	HEAT-> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:56:03.065039	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:56:16.271418	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:56:16.272706	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:56:16.273721	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:57:03.591491	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:57:03.592788	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:57:16.800133	FAN -> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:57:16.801413	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:57:16.802421	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:58:04.119222	HEAT-> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:58:04.120504	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:58:17.328825	FAN -> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:58:17.330158	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:58:17.331219	FAN :	Waiting for 1 minute before next check
+2023-10-27 01:59:04.646932	HEAT-> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 01:59:04.647242	HEAT:	Waiting for 1 minute before next check
+2023-10-27 01:59:17.857497	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 01:59:17.858802	FAN : 	No criteria activated - keeping fan off
+2023-10-27 01:59:17.859862	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:00:05.172745	HEAT-> 	Temperature=17.1°, Humidity=96.1%
+2023-10-27 02:00:05.174211	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:00:18.386366	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:00:18.386689	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:00:18.386813	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:01:05.700735	HEAT-> 	Temperature=17.0°, Humidity=96.0%
+2023-10-27 02:01:05.702157	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:01:18.912175	FAN -> 	Temperature=17.0°, Humidity=96.0%
+2023-10-27 02:01:18.912486	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:01:18.912609	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:02:06.228615	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:02:06.230052	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:02:19.437995	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:02:19.438310	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:02:19.438433	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:03:06.756649	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:03:06.758053	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:03:19.964007	FAN -> 	Temperature=17.0°, Humidity=96.0%
+2023-10-27 02:03:19.964309	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:03:19.964432	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:04:07.284698	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:04:07.286103	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:04:20.490262	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:04:20.490570	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:04:20.490698	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:05:07.812742	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:05:07.814169	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:05:21.016410	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:05:21.017649	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:05:21.018589	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:06:08.340898	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:06:08.342503	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:06:21.545031	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:06:21.545340	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:06:21.545464	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:07:08.869026	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:07:08.869336	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:07:22.070847	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:07:22.071181	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:07:22.071306	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:08:09.394757	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:08:09.395537	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:08:22.596888	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:08:22.597210	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:08:22.597334	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:09:09.920967	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:09:09.922843	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:09:23.122772	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:09:23.124665	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:09:23.125763	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:10:10.449443	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:10:10.451366	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:10:23.652478	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:10:23.654553	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:10:23.655792	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:11:10.977839	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:11:10.979505	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:11:24.182233	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:11:24.183193	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:11:24.183344	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:12:11.505673	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:12:11.507561	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:12:24.708793	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:12:24.709124	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:12:24.709246	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:13:12.033926	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:13:12.034223	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:13:25.234670	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:13:25.236591	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:13:25.237667	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:14:12.559942	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:14:12.561505	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:14:25.764143	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:14:25.764476	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:14:25.764601	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:15:13.088011	HEAT-> 	Temperature=17.0°, Humidity=96.0%
+2023-10-27 02:15:13.089605	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:15:26.290002	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:15:26.290331	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:15:26.290455	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:16:13.616127	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:16:13.617719	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:16:26.815985	FAN -> 	Temperature=17.0°, Humidity=96.0%
+2023-10-27 02:16:26.816289	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:16:26.816412	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:17:14.144288	HEAT-> 	Temperature=17.0°, Humidity=96.0%
+2023-10-27 02:17:14.145721	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:17:27.342108	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:17:27.342431	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:17:27.342554	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:18:14.672115	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:18:14.673714	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:18:27.868259	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:18:27.869636	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:18:27.870668	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:19:15.200182	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:19:15.200467	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:19:28.397016	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:19:28.397347	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:19:28.397470	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:20:15.725989	HEAT-> 	Temperature=17.0°, Humidity=95.9%
+2023-10-27 02:20:15.726307	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:20:28.923139	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:20:28.923463	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:20:28.923586	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:21:16.251763	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:21:16.252082	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:21:29.448983	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:21:29.449342	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:21:29.449466	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:22:16.777498	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:22:16.777816	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:22:29.975044	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:22:29.975372	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:22:29.975497	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:23:19.834274	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:23:19.834594	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:23:30.501242	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:23:30.502683	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:23:30.503849	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:24:20.360306	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:24:20.360567	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:24:31.030485	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:24:31.030799	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:24:31.030921	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:25:20.886296	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:25:20.887225	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:25:31.556603	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:25:31.557918	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:25:31.558932	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:26:21.413084	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:26:21.413378	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:26:32.085325	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:26:32.086637	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:26:32.087736	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:27:21.939112	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:27:21.939398	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:27:32.614162	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:27:32.615491	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:27:32.616589	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:28:22.464761	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:28:22.465073	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:28:33.143026	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:28:33.144315	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:28:33.145330	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:29:22.990480	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:29:22.990783	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:29:33.671615	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:29:33.671892	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:29:33.671999	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:30:23.516442	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:30:23.516748	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:30:34.197679	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:30:34.198011	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:30:34.198140	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:31:24.042152	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:31:24.042446	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:31:34.723819	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:31:34.724141	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:31:34.724264	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:32:24.568184	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:32:24.568493	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:32:35.249867	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:32:35.250196	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:32:35.250321	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:33:25.093878	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:33:25.094162	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:33:35.776020	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:33:35.776328	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:33:35.776451	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:34:25.619882	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:34:25.620201	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:34:36.301945	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:34:36.302249	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:34:36.302371	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:35:26.145600	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:35:26.145916	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:35:36.827839	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:35:36.828149	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:35:36.828272	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:36:26.671385	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:36:26.671680	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:36:37.353604	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:36:37.353923	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:36:37.354044	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:37:27.197059	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:37:27.198297	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:37:37.879605	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:37:37.881025	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:37:37.882116	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:38:27.724756	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:38:27.726202	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:38:38.408653	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:38:38.410242	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:38:38.411480	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:39:28.252912	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:39:28.253231	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:39:38.938199	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:39:38.938506	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:39:38.938631	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:40:28.778696	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:40:28.779035	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:40:39.464270	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:40:39.464589	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:40:39.464712	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:41:29.304705	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:41:29.305030	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:41:39.990317	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:41:39.990627	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:41:39.990750	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:42:29.830664	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:42:29.831020	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:42:40.516357	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:42:40.516668	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:42:40.516789	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:43:30.356480	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:43:30.356795	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:43:41.042469	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:43:41.042765	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:43:41.042891	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:44:30.882183	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:44:30.882493	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:44:41.568903	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:44:41.569205	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:44:41.569328	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:45:31.408256	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:45:31.408553	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:45:42.094788	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:45:42.095131	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:45:42.095255	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:46:31.934163	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:46:31.934466	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:46:42.620893	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:46:42.621213	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:46:42.621337	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:47:32.460204	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:47:32.460528	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:47:43.146883	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:47:43.147215	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:47:43.147339	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:48:32.986168	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:48:32.986471	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:48:43.672732	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:48:43.673055	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:48:43.673179	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:49:33.512185	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:49:33.512500	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:49:44.198746	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:49:44.199091	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:49:44.199216	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:50:34.038171	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:50:34.038479	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:50:44.724744	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:50:44.725045	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:50:44.725238	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:51:34.564168	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:51:34.564479	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:51:45.250750	FAN -> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:51:45.251110	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:51:45.251232	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:52:35.089889	HEAT-> 	Temperature=17.1°, Humidity=96.0%
+2023-10-27 02:52:35.090217	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:52:45.776892	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 02:52:45.777211	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:52:45.777333	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:53:35.615873	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:53:35.616190	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:53:46.302951	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:53:46.303282	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:53:46.303405	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:54:36.141874	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:54:36.142193	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:54:46.828930	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:54:46.829238	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:54:46.829360	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:55:36.667815	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:55:36.668141	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:55:47.354992	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:55:47.355325	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:55:47.355450	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:56:37.193780	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:56:37.194042	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:56:47.881085	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:56:47.881425	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:56:47.881547	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:57:37.719664	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:57:37.719989	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:57:48.407122	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:57:48.407458	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:57:48.407583	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:58:38.245537	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:58:38.245859	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:58:48.933195	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:58:48.933510	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:58:48.933634	FAN :	Waiting for 1 minute before next check
+2023-10-27 02:59:38.771581	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 02:59:38.771865	HEAT:	Waiting for 1 minute before next check
+2023-10-27 02:59:49.459212	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 02:59:49.459556	FAN : 	No criteria activated - keeping fan off
+2023-10-27 02:59:49.459680	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:00:39.297542	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 03:00:39.297858	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:00:49.985307	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 03:00:49.985631	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:00:49.985753	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:01:39.823478	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:01:39.823774	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:01:50.511440	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 03:01:50.511757	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:01:50.511880	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:02:40.349378	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:02:40.349741	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:02:51.037535	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 03:02:51.037862	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:02:51.037985	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:03:40.875328	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:03:40.875629	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:03:51.563729	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:03:51.563972	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:03:51.564065	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:04:41.401298	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 03:04:41.401631	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:04:52.089855	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:04:52.090160	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:04:52.090283	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:05:41.927444	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 03:05:41.927757	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:05:52.616121	FAN -> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 03:05:52.616434	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:05:52.616557	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:06:42.453647	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 03:06:42.453953	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:06:53.142057	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 03:06:53.142365	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:06:53.142488	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:07:42.979779	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:07:42.980092	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:07:53.668107	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:07:53.668423	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:07:53.668547	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:08:43.505691	HEAT-> 	Temperature=17.1°, Humidity=95.9%
+2023-10-27 03:08:43.505995	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:08:54.194053	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:08:54.194363	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:08:54.194487	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:09:44.031633	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:09:44.031955	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:09:57.249825	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:09:57.249992	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:09:57.250037	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:10:44.557464	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:10:44.557776	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:10:57.775617	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:10:57.775956	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:10:57.776080	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:11:47.614717	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:11:47.616613	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:11:58.301661	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:11:58.303098	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:11:58.304134	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:12:48.143265	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:12:48.144575	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:12:58.830574	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:12:58.831920	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:12:58.832934	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:13:48.671103	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:13:48.671423	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:13:59.359379	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:13:59.360761	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:13:59.361769	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:14:49.196976	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:14:49.197245	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:14:59.888194	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:14:59.889476	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:14:59.890498	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:15:49.722788	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:15:49.723130	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:16:00.416999	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:16:00.418331	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:16:00.419391	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:16:50.248706	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:16:50.249004	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:17:00.945833	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:17:00.947150	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:17:00.948176	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:17:50.774542	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:17:50.776473	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:18:01.474594	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:18:01.474880	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:18:01.475012	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:18:51.303313	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:18:51.305333	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:19:02.000629	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:19:02.000942	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:19:02.001064	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:19:51.831969	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 03:19:51.833956	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:20:02.526895	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:20:02.527253	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:20:02.527376	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:20:52.360761	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 03:20:52.361083	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:21:03.052916	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:21:03.053251	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:21:03.053374	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:21:55.418317	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:21:55.418638	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:22:03.578923	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:22:03.579259	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:22:03.579383	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:22:55.944215	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:22:55.944494	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:23:04.104885	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:23:04.105202	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:23:04.105323	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:23:56.470076	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:23:56.471165	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:24:04.630854	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:24:04.631185	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:24:04.631308	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:24:56.996826	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:24:56.997094	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:25:05.156811	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 03:25:05.157104	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:25:05.157208	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:25:57.522525	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 03:25:57.522799	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:26:05.682795	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:26:05.683090	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:26:05.683193	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:26:58.048351	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:26:58.048611	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:27:06.208597	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:27:06.208872	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:27:06.208973	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:27:58.574034	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:27:58.574266	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:28:06.734489	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:28:06.734777	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:28:06.734881	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:28:59.099855	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:28:59.100132	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:29:07.260405	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:29:07.260679	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:29:07.260782	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:29:59.625656	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:29:59.625939	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:30:07.786224	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:30:07.786502	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:30:07.786604	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:31:00.151676	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:31:00.151980	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:31:10.843222	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:31:10.843494	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:31:10.843596	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:32:00.677638	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 03:32:00.677917	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:32:11.369072	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:32:11.369364	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:32:11.369467	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:33:01.203492	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:33:01.203764	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:33:11.894878	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:33:11.895171	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:33:11.895274	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:34:01.729315	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:34:01.729584	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:34:12.420926	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:34:12.421198	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:34:12.421300	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:35:02.255171	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:35:02.255431	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:35:12.947084	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:35:12.947355	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:35:12.947457	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:36:02.781087	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:36:02.781325	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:36:13.472864	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:36:13.473135	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:36:13.473239	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:37:05.832098	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:37:05.832324	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:37:13.998693	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:37:13.999066	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:37:13.999169	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:38:06.357793	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:38:06.358067	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:38:14.524553	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:38:14.524828	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:38:14.524930	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:39:06.883634	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:39:06.883906	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:39:15.050338	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:39:15.050605	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:39:15.050707	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:40:07.409313	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:40:07.409587	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:40:15.576192	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:40:15.576469	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:40:15.576572	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:41:07.935135	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:41:07.935400	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:41:16.102023	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:41:16.102309	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:41:16.102413	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:42:08.460873	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:42:08.461151	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:42:16.627897	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:42:16.628185	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:42:16.628288	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:43:08.986606	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:43:08.986852	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:43:17.153714	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:43:17.154019	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:43:17.154125	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:44:09.512372	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:44:09.512652	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:44:17.679803	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:44:17.680076	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:44:17.680179	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:45:10.038167	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:45:10.038439	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:45:18.205668	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:45:18.205922	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:45:18.206010	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:46:10.564116	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:46:10.564404	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:46:21.261797	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:46:21.262072	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:46:21.262176	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:47:11.089914	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:47:11.090187	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:47:21.787709	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:47:21.787982	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:47:21.788085	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:48:11.615794	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:48:11.616084	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:48:22.313485	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:48:22.313707	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:48:22.313786	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:49:12.141623	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:49:12.141899	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:49:22.839467	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:49:22.839736	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:49:22.839838	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:50:12.667450	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:50:12.667709	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:50:23.365596	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:50:23.365878	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:50:23.365980	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:51:13.193372	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:51:13.193652	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:51:23.891566	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:51:23.891860	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:51:23.891963	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:52:13.719389	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:52:13.719662	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:52:24.417319	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:52:24.417590	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:52:24.417693	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:53:14.245194	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:53:14.245477	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:53:24.943251	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:53:24.943521	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:53:24.943623	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:54:14.770825	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:54:14.771128	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:54:25.469059	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:54:25.469338	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:54:25.469442	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:55:15.296551	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:55:15.296826	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:55:25.994753	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:55:25.995051	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:55:25.995155	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:56:15.822310	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:56:15.822582	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:56:26.520506	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:56:26.520781	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:56:26.520884	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:57:16.348101	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:57:16.348378	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:57:27.046289	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 03:57:27.046570	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:57:27.046672	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:58:16.873814	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 03:58:16.874089	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:58:27.572132	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:58:27.572428	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:58:27.572531	FAN :	Waiting for 1 minute before next check
+2023-10-27 03:59:17.399578	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:59:17.399873	HEAT:	Waiting for 1 minute before next check
+2023-10-27 03:59:28.097898	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 03:59:28.098188	FAN : 	No criteria activated - keeping fan off
+2023-10-27 03:59:28.098291	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:00:17.925307	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:00:17.925591	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:00:28.623733	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:00:28.624031	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:00:28.624134	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:01:18.451189	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:01:18.451477	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:01:29.149542	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:01:29.149841	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:01:29.149946	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:02:18.976975	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:02:18.977251	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:02:29.675369	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:02:29.675625	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:02:29.675714	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:03:19.502699	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:03:19.503007	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:03:30.201083	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:03:30.201352	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:03:30.201443	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:04:20.028478	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:04:20.028756	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:04:30.726870	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:04:30.727178	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:04:30.727283	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:05:20.554244	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 04:05:20.554505	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:05:31.252710	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:05:31.253005	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:05:31.253109	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:06:21.080009	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 04:06:21.080289	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:06:34.308320	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:06:34.308595	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:06:34.308700	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:07:21.605751	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:07:21.606035	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:07:34.834080	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:07:34.834371	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:07:34.834474	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:08:22.131605	HEAT-> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 04:08:22.131889	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:08:35.359972	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:08:35.360276	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:08:35.360382	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:09:22.657350	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:09:22.657627	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:09:35.885829	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:09:35.886129	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:09:35.886235	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:10:25.713581	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:10:25.713852	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:10:36.411716	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:10:36.411988	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:10:36.412092	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:11:26.239321	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:11:26.239598	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:11:36.937451	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:11:36.937666	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:11:36.937801	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:12:26.764962	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:12:26.765235	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:12:37.463360	FAN -> 	Temperature=17.0°, Humidity=95.8%
+2023-10-27 04:12:37.463633	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:12:37.463737	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:13:27.290645	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:13:27.290921	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:13:37.989112	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:13:37.989385	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:13:37.989490	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:14:27.816384	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:14:27.816659	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:14:38.514920	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:14:38.515205	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:14:38.515311	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:15:28.342018	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:15:28.342298	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:15:39.040769	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:15:39.041048	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:15:39.041150	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:16:28.867792	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:16:28.868068	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:16:39.566499	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:16:39.566789	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:16:39.566892	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:17:29.393482	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:17:29.393782	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:17:40.092290	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:17:40.092572	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:17:40.092675	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:18:29.919301	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:18:29.919577	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:18:40.618016	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:18:40.618308	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:18:40.618411	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:19:30.445027	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:19:30.445310	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:19:43.675373	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:19:43.675624	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:19:43.675713	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:20:30.970742	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 04:20:30.971037	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:20:44.201444	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:20:44.201743	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:20:44.201847	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:21:31.496454	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:21:31.496730	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:21:44.727829	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:21:44.728121	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:21:44.728223	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:22:32.022101	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:22:32.022380	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:22:45.253563	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:22:45.253854	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:22:45.253958	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:23:32.547910	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:23:32.548252	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:23:45.779435	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:23:45.779709	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:23:45.779811	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:24:33.073678	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:24:33.073958	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:24:46.305218	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:24:46.305509	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:24:46.305613	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:25:33.599535	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:25:33.599791	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:25:46.830976	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:25:46.831221	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:25:46.831309	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:26:34.125239	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:26:34.125511	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:26:47.356840	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:26:47.357137	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:26:47.357243	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:27:34.651280	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:27:34.651541	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:27:47.882675	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:27:47.882950	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:27:47.883087	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:28:35.177088	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:28:35.177375	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:28:48.408569	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:28:48.408853	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:28:48.408956	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:29:35.702758	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:29:35.703068	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:29:48.934371	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:29:48.934626	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:29:48.934732	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:30:36.228515	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:30:36.228782	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:30:49.460108	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:30:49.460385	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:30:49.460489	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:31:36.754173	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:31:36.754450	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:31:49.985882	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:31:49.986170	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:31:49.986272	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:32:37.279855	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:32:37.280131	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:32:50.511677	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:32:50.511973	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:32:50.512075	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:33:37.805489	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:33:37.805766	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:33:51.037446	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:33:51.037721	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:33:51.037826	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:34:38.331217	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:34:38.331498	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:34:51.563321	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:34:51.563611	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:34:51.563780	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:35:38.856919	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:35:38.857182	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:35:52.089232	FAN -> 	Temperature=17.1°, Humidity=95.5%
+2023-10-27 04:35:52.089508	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:35:52.089610	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:36:39.382543	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:36:39.382819	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:36:52.614981	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:36:52.615255	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:36:52.615358	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:37:39.908239	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:37:39.908505	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:37:53.140696	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:37:53.140967	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:37:53.141071	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:38:40.433938	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:38:40.434216	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:38:53.666433	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:38:53.666713	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:38:53.666816	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:39:43.489919	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:39:43.490190	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:39:54.192126	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:39:54.192354	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:39:54.192432	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:40:44.015686	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:40:44.015957	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:40:54.718058	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:40:54.718340	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:40:54.718442	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:41:44.541311	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:41:44.541593	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:41:55.244059	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:41:55.244355	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:41:55.244458	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:42:45.067394	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:42:45.067668	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:42:55.769741	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:42:55.770020	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:42:55.770121	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:43:45.593351	HEAT-> 	Temperature=17.1°, Humidity=95.5%
+2023-10-27 04:43:45.593624	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:43:56.295662	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:43:56.295905	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:43:56.295983	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:44:46.119112	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:44:46.119388	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:44:59.346406	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:44:59.346715	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:44:59.346820	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:45:46.644741	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:45:46.645006	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:45:59.872274	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:45:59.872542	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:45:59.872643	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:46:47.170383	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:46:47.170752	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:47:00.398084	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:47:00.398387	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:47:00.398491	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:47:47.696185	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:47:47.696464	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:48:00.923937	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:48:00.924225	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:48:00.924328	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:48:48.221858	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:48:48.222139	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:49:01.449779	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:49:01.450074	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:49:01.450178	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:49:48.747732	HEAT-> 	Temperature=17.1°, Humidity=95.5%
+2023-10-27 04:49:48.748002	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:50:01.975624	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:50:01.975907	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:50:01.976009	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:50:49.273425	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:50:49.273702	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:51:02.501413	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:51:02.501693	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:51:02.501796	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:51:49.799222	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:51:49.799494	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:52:03.027269	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:52:03.027533	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:52:03.027635	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:52:50.324889	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:52:50.325159	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:53:03.553039	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:53:03.553315	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:53:03.553418	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:53:50.850558	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:53:50.850832	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:54:04.078816	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:54:04.079117	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:54:04.079220	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:54:51.376275	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:54:51.376522	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:55:04.604611	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:55:04.604836	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:55:04.604915	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:55:51.901944	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:55:51.902221	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:56:05.130461	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:56:05.130835	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:56:05.130939	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:56:52.427685	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:56:52.427956	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:57:05.656740	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:57:05.657042	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:57:05.657145	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:57:52.953409	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:57:52.953679	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:58:06.182492	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 04:58:06.182854	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:58:06.182958	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:58:53.479283	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:58:53.479572	HEAT:	Waiting for 1 minute before next check
+2023-10-27 04:59:06.708404	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 04:59:06.708679	FAN : 	No criteria activated - keeping fan off
+2023-10-27 04:59:06.708782	FAN :	Waiting for 1 minute before next check
+2023-10-27 04:59:54.004973	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 04:59:54.005243	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:00:05.134329	AIR : 	ON
+2023-10-27 05:00:07.234188	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:00:07.234439	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:00:07.234542	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:00:57.060530	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:00:57.060800	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:01:07.759947	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:01:07.760222	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:01:07.760323	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:01:57.586222	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:01:57.586491	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:02:08.285727	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:02:08.286001	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:02:08.286105	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:02:58.111973	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:02:58.112249	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:03:08.811588	FAN -> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:03:08.811855	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:03:08.811958	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:03:58.637665	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:03:58.637946	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:04:09.337351	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:04:09.337608	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:04:09.337711	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:04:59.163444	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:04:59.163748	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:05:09.863163	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:05:09.863431	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:05:09.863535	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:05:59.689201	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:05:59.689430	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:06:10.388953	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:06:10.389229	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:06:10.389332	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:07:00.214932	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:07:00.215252	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:07:10.914731	FAN -> 	Temperature=17.0°, Humidity=95.2%
+2023-10-27 05:07:10.915043	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:07:10.915147	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:08:00.740639	HEAT-> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:08:00.740899	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:08:11.440629	FAN -> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:08:11.440923	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:08:11.441028	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:09:01.266305	HEAT-> 	Temperature=17.0°, Humidity=95.2%
+2023-10-27 05:09:01.266577	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:09:11.966331	FAN -> 	Temperature=17.0°, Humidity=95.2%
+2023-10-27 05:09:11.966602	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:09:11.966705	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:10:01.792114	HEAT-> 	Temperature=16.9°, Humidity=95.1%
+2023-10-27 05:10:01.792384	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:10:12.492280	FAN -> 	Temperature=16.9°, Humidity=95.4%
+2023-10-27 05:10:12.492561	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:10:12.492666	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:11:02.317762	HEAT-> 	Temperature=17.0°, Humidity=95.2%
+2023-10-27 05:11:02.318024	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:11:13.018139	FAN -> 	Temperature=16.9°, Humidity=95.5%
+2023-10-27 05:11:13.018418	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:11:13.018521	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:12:02.843516	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:12:02.843782	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:12:13.544151	FAN -> 	Temperature=16.9°, Humidity=95.5%
+2023-10-27 05:12:13.544428	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:12:13.544530	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:13:03.369147	HEAT-> 	Temperature=16.9°, Humidity=95.6%
+2023-10-27 05:13:03.369416	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:13:14.069890	FAN -> 	Temperature=16.9°, Humidity=95.3%
+2023-10-27 05:13:14.070166	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:13:14.070271	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:14:03.894834	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:14:03.895129	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:14:14.595756	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:14:14.596036	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:14:14.596140	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:15:04.420525	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:15:04.420791	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:15:15.121580	FAN -> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 05:15:15.121863	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:15:15.121966	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:16:04.946223	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:16:04.946502	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:16:15.647710	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:16:15.647976	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:16:15.648080	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:17:05.472107	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:17:05.472396	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:17:16.173776	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:17:16.174056	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:17:16.174159	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:18:08.523292	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 05:18:08.523564	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:18:16.699572	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:18:16.699842	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:18:16.699944	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:19:09.048917	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:19:09.049188	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:19:17.225400	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:19:17.225701	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:19:17.225806	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:20:09.574558	HEAT-> 	Temperature=17.0°, Humidity=95.7%
+2023-10-27 05:20:09.574825	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:20:17.751241	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:20:17.751515	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:20:17.751617	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:21:10.100255	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:21:10.100544	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:21:18.277044	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:21:18.277324	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:21:18.277427	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:22:10.625993	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:22:10.626277	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:22:18.802920	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:22:18.803228	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:22:18.803333	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:23:11.151823	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:23:11.152104	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:23:21.858617	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:23:21.858892	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:23:21.859030	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:24:11.677506	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:24:11.677780	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:24:22.384407	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:24:22.384686	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:24:22.384791	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:25:12.203323	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:25:12.203600	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:25:22.910130	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:25:22.910399	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:25:22.910504	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:26:12.728942	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:26:12.729223	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:26:23.436036	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:26:23.436338	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:26:23.436443	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:27:13.254570	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:27:13.254852	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:27:23.961821	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:27:23.962107	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:27:23.962211	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:28:13.780273	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:28:13.780549	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:28:24.487703	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:28:24.487948	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:28:24.488028	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:29:14.305937	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:29:14.306215	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:29:25.013486	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:29:25.013771	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:29:25.013874	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:30:14.831711	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:30:14.831975	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:30:25.539354	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:30:25.539647	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:30:25.539751	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:31:15.357394	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:31:15.357677	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:31:28.596672	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:31:28.596969	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:31:28.597072	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:32:15.883203	HEAT-> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:32:15.883474	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:32:29.122475	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:32:29.122753	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:32:29.122924	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:33:18.934359	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:33:18.934631	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:33:29.648371	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:33:29.648686	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:33:29.648793	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:34:19.460058	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:34:19.460342	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:34:30.174256	FAN -> 	Temperature=17.0°, Humidity=95.2%
+2023-10-27 05:34:30.174555	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:34:30.174659	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:35:19.985758	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:35:19.986029	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:35:30.700053	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:35:30.700348	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:35:30.700452	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:36:20.511585	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:36:20.511864	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:36:33.755890	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:36:33.756183	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:36:33.756286	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:37:21.037238	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:37:21.037511	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:37:34.281747	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:37:34.282041	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:37:34.282145	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:38:21.562995	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:38:21.563255	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:38:34.807626	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:38:34.807921	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:38:34.808025	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:39:22.088636	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:39:22.088909	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:39:35.333450	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:39:35.333752	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:39:35.333855	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:40:22.614256	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:40:22.614531	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:40:35.859343	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:40:35.859629	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:40:35.859731	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:41:25.669680	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:41:25.669935	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:41:36.385127	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:41:36.385405	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:41:36.385508	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:42:26.195355	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:42:26.195600	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:42:36.911162	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:42:36.911429	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:42:36.911531	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:43:26.720962	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:43:26.721235	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:43:37.437150	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:43:37.437430	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:43:37.437534	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:44:29.777856	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 05:44:29.778189	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:44:37.962836	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:44:37.963134	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:44:37.963238	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:45:30.303665	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:45:30.303939	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:45:38.488631	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:45:38.488906	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:45:38.489009	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:46:30.829331	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:46:30.829596	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:46:39.014380	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:46:39.014657	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:46:39.014760	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:47:31.355125	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:47:31.355404	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:47:39.540085	FAN -> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:47:39.540335	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:47:39.540438	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:48:31.880787	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:48:31.881059	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:48:40.065833	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:48:40.066100	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:48:40.066202	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:49:32.406408	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:49:32.406689	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:49:40.591631	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:49:40.591902	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:49:40.592006	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:50:32.932182	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:50:32.932439	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:50:41.117428	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:50:41.117701	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:50:41.117803	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:51:33.457803	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:51:33.458070	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:51:41.643299	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:51:41.643595	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:51:41.643700	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:52:33.983611	HEAT-> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:52:33.983881	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:52:42.169175	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:52:42.169453	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:52:42.169558	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:53:34.509322	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:53:34.509585	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:53:42.694984	FAN -> 	Temperature=17.0°, Humidity=95.1%
+2023-10-27 05:53:42.695250	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:53:42.695354	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:54:35.035138	HEAT-> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:54:35.035412	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:54:43.220781	FAN -> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:54:43.221055	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:54:43.221158	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:55:35.560843	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 05:55:35.561081	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:55:43.746567	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:55:43.746840	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:55:43.747062	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:56:36.086441	HEAT-> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:56:36.086715	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:56:44.272455	FAN -> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:56:44.272734	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:56:44.272838	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:57:36.612062	HEAT-> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:57:36.612344	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:57:44.798232	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:57:44.798499	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:57:44.798600	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:58:37.137702	HEAT-> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 05:58:37.137979	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:58:45.323996	FAN -> 	Temperature=17.0°, Humidity=95.2%
+2023-10-27 05:58:45.324268	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:58:45.324370	FAN :	Waiting for 1 minute before next check
+2023-10-27 05:59:37.663741	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:59:37.664008	HEAT:	Waiting for 1 minute before next check
+2023-10-27 05:59:45.849784	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 05:59:45.850048	FAN : 	No criteria activated - keeping fan off
+2023-10-27 05:59:45.850150	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:00:07.664089	PUMP: 	ON
+2023-10-27 06:00:38.189585	HEAT-> 	Temperature=17.0°, Humidity=95.3%
+2023-10-27 06:00:38.189859	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:00:46.375618	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 06:00:46.375843	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:00:46.375921	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:01:38.715303	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 06:01:38.715567	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:01:46.901275	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 06:01:46.901544	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:01:46.901646	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:02:39.240918	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 06:02:39.241170	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:02:47.427153	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 06:02:47.427438	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:02:47.427543	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:03:39.766477	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 06:03:39.766745	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:03:47.953203	FAN -> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 06:03:47.953471	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:03:47.953575	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:04:40.292275	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 06:04:40.292557	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:04:48.479444	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 06:04:48.479725	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:04:48.479828	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:05:40.817914	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 06:05:40.818193	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:05:49.005167	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 06:05:49.005434	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:05:49.005537	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:06:41.343665	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 06:06:41.343950	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:06:49.530991	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 06:06:49.531270	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:06:49.531372	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:07:41.869388	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 06:07:41.869655	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:07:50.056864	FAN -> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 06:07:50.057106	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:07:50.057197	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:08:42.395156	HEAT-> 	Temperature=17.0°, Humidity=95.6%
+2023-10-27 06:08:42.395408	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:08:50.582577	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 06:08:50.582854	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:08:50.582957	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:09:42.920814	HEAT-> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 06:09:42.921076	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:09:51.108439	FAN -> 	Temperature=17.1°, Humidity=95.5%
+2023-10-27 06:09:51.108718	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:09:51.108822	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:10:43.446518	HEAT-> 	Temperature=17.0°, Humidity=95.4%
+2023-10-27 06:10:43.446798	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:10:51.634197	FAN -> 	Temperature=17.0°, Humidity=95.5%
+2023-10-27 06:10:51.634446	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:10:51.634534	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:11:43.972274	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:11:43.972544	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:11:52.160079	FAN -> 	Temperature=17.1°, Humidity=95.5%
+2023-10-27 06:11:52.160354	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:11:52.160457	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:12:44.497963	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:12:44.498239	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:12:52.685879	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:12:52.686148	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:12:52.686252	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:13:45.023847	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 06:13:45.024119	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:13:53.211846	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 06:13:53.212129	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:13:53.212234	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:14:45.549571	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:14:45.549844	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:14:53.737671	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:14:53.737936	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:14:53.738039	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:15:46.075362	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:15:46.075641	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:15:54.263550	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:15:54.263796	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:15:54.263887	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:16:46.601123	HEAT-> 	Temperature=17.1°, Humidity=95.5%
+2023-10-27 06:16:46.601388	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:16:54.789347	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:16:54.789610	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:16:54.789714	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:17:47.126800	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:17:47.127108	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:17:55.315197	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:17:55.315474	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:17:55.315576	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:18:47.652590	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:18:47.652889	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:18:55.841042	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:18:55.841310	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:18:55.841412	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:19:48.178723	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:19:48.179043	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:19:56.366846	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:19:56.367145	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:19:56.367249	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:20:48.704681	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:20:48.704960	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:20:56.892716	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:20:56.892989	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:20:56.893092	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:21:49.230357	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:21:49.230634	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:21:57.418565	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:21:57.418852	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:21:57.418955	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:22:49.756154	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:22:49.756423	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:23:00.475756	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:23:00.476058	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:23:00.476164	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:23:50.281810	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:23:50.282078	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:24:01.001581	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:24:01.001856	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:24:01.001959	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:24:50.807561	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:24:50.807815	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:25:01.527521	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:25:01.527798	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:25:01.527904	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:25:51.333188	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:25:51.333466	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:26:02.053394	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:26:02.053656	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:26:02.053759	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:26:51.858903	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:26:51.859194	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:27:02.579251	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:27:02.579524	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:27:02.579628	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:27:52.384708	HEAT-> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 06:27:52.384983	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:28:03.105050	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:28:03.105330	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:28:03.105434	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:28:52.910498	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 06:28:52.910776	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:29:03.630834	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:29:03.631134	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:29:03.631237	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:29:53.436359	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 06:29:53.436648	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:30:04.156679	FAN -> 	Temperature=17.1°, Humidity=95.8%
+2023-10-27 06:30:04.156954	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:30:04.157058	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:30:53.962242	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 06:30:53.962522	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:31:04.682557	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:31:04.682827	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:31:04.682930	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:31:54.488073	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:31:54.488355	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:32:05.208403	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:32:05.208690	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:32:05.208795	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:32:55.013813	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 06:32:55.014085	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:33:05.734249	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 06:33:05.734519	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:33:05.734622	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:33:55.539505	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:33:55.539789	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:34:06.260174	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:34:06.260451	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:34:06.260555	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:34:56.065353	HEAT-> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 06:34:56.065621	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:35:06.786081	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:35:06.786351	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:35:06.786455	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:35:56.591151	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:35:56.591432	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:36:07.312048	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:36:07.312331	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:36:07.312433	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:36:57.116825	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:36:57.117093	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:37:07.837849	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:37:07.838127	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:37:07.838231	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:37:57.642473	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:37:57.642749	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:38:08.364117	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:38:08.364388	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:38:08.364490	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:38:58.168183	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:38:58.168465	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:39:08.890095	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:39:08.890352	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:39:08.890456	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:40:01.219434	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:40:01.219712	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:40:09.416071	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:40:09.416349	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:40:09.416452	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:41:01.745128	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:41:01.745406	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:41:09.941915	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 06:41:09.942187	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:41:09.942290	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:42:02.270816	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:42:02.271127	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:42:15.522745	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:42:15.523060	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:42:15.523165	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:43:02.796666	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:43:02.796936	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:43:16.048598	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:43:16.048867	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:43:16.048970	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:44:03.322321	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:44:03.322598	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:44:16.574408	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:44:16.574690	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:44:16.574793	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:45:03.848155	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:45:03.849974	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:45:17.100292	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:45:17.100564	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:45:17.100668	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:46:04.375496	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:46:04.375771	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:46:17.626176	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:46:17.626478	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:46:17.626586	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:47:04.901264	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:47:04.901515	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:47:18.152070	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:47:18.152300	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:47:18.152380	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:48:05.427036	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:48:05.427329	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:48:18.677812	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:48:18.678082	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:48:18.678185	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:49:05.952810	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:49:05.953056	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:49:19.203985	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:49:19.204228	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:49:19.204316	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:50:06.478528	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:50:06.478803	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:50:19.730048	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:50:19.730315	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:50:19.730417	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:51:07.004332	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:51:07.004622	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:51:20.255932	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:51:20.256241	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:51:20.256346	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:52:07.530135	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:52:07.530409	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:52:20.781815	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:52:20.782100	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:52:20.782204	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:53:08.055931	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:53:08.056204	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:53:21.307695	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:53:21.307989	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:53:21.308156	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:54:08.581733	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:54:08.582014	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:54:21.833593	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:54:21.833875	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:54:21.833978	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:55:09.107612	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:55:09.107889	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:55:22.359541	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:55:22.359836	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:55:22.359938	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:56:12.158775	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:56:12.159091	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:56:22.885307	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:56:22.885590	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:56:22.885693	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:57:12.684596	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 06:57:12.684870	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:57:23.411258	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:57:23.411514	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:57:23.411595	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:58:13.210303	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:58:13.210578	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:58:23.937006	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 06:58:23.937296	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:58:23.937399	FAN :	Waiting for 1 minute before next check
+2023-10-27 06:59:13.736090	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:59:13.736364	HEAT:	Waiting for 1 minute before next check
+2023-10-27 06:59:24.462906	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 06:59:24.463231	FAN : 	No criteria activated - keeping fan off
+2023-10-27 06:59:24.463335	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:00:14.261801	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:00:14.262043	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:00:24.988750	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:00:24.989033	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:00:24.989135	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:01:14.787627	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:01:14.787897	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:01:25.514560	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:01:25.514857	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:01:25.514960	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:02:15.313367	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:02:15.313650	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:02:28.565594	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:02:28.565865	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:02:28.565969	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:03:18.364484	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:03:18.364762	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:03:29.091502	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:03:29.091786	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:03:29.091889	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:04:18.890229	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:04:18.890505	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:04:29.617341	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:04:29.617626	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:04:29.617718	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:05:19.415986	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:05:19.416347	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:05:30.143465	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:05:30.143722	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:05:30.143811	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:06:19.941785	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:06:19.942064	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:06:30.669465	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:06:30.669746	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:06:30.669850	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:07:22.999136	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:07:22.999409	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:07:31.195388	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:07:31.195675	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:07:31.195780	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:08:23.524803	HEAT-> 	Temperature=17.2°, Humidity=95.5%
+2023-10-27 07:08:23.525091	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:08:31.721195	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:08:31.721480	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:08:31.721583	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:09:24.050579	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:09:24.050850	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:09:32.247023	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:09:32.247309	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:09:32.247412	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:10:24.576302	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:10:24.576587	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:10:32.772846	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:10:32.773118	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:10:32.773224	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:11:25.102058	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:11:25.102339	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:11:33.298666	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:11:33.298954	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:11:33.299092	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:12:25.627825	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:12:25.628108	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:12:33.824529	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:12:33.824801	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:12:33.824904	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:13:26.153555	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:13:26.153834	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:13:34.350300	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:13:34.350577	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:13:34.350679	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:14:26.679364	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:14:26.679645	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:14:34.876130	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:14:34.876411	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:14:34.876515	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:15:27.205102	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:15:27.205378	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:15:35.401972	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:15:35.402269	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:15:35.402373	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:16:27.730844	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:16:27.731136	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:16:35.927950	FAN -> 	Temperature=17.2°, Humidity=95.5%
+2023-10-27 07:16:35.928300	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:16:35.928402	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:17:28.256591	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:17:28.256825	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:17:36.453869	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:17:36.454164	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:17:36.454268	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:18:28.782290	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:18:28.782564	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:18:36.979801	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:18:36.980086	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:18:36.980189	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:19:29.308134	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:19:29.308431	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:19:37.505662	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:19:37.505956	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:19:37.506059	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:20:29.833906	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:20:29.834162	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:20:38.031593	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:20:38.033512	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:20:38.033628	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:21:30.359744	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:21:30.360023	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:21:38.559145	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:21:38.559399	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:21:38.559488	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:22:30.885752	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:22:30.886021	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:22:41.615951	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:22:41.616252	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:22:41.616358	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:23:31.411828	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:23:31.412087	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:23:42.141823	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:23:42.142116	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:23:42.142219	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:24:31.937498	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:24:31.937767	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:24:42.667892	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:24:42.668155	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:24:42.668258	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:25:32.463328	HEAT-> 	Temperature=17.2°, Humidity=95.5%
+2023-10-27 07:25:32.463594	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:25:43.193703	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:25:43.194001	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:25:43.194107	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:26:32.989027	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:26:32.989303	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:26:43.719672	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:26:43.719960	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:26:43.720064	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:27:33.514736	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:27:33.515048	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:27:44.245535	FAN -> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:27:44.245825	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:27:44.245929	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:28:34.040501	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:28:34.040841	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:28:44.771498	FAN -> 	Temperature=17.2°, Humidity=95.4%
+2023-10-27 07:28:44.771846	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:28:44.771953	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:29:34.566259	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:29:34.566540	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:29:45.297460	FAN -> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 07:29:45.297749	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:29:45.297851	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:30:35.092094	HEAT-> 	Temperature=17.1°, Humidity=95.5%
+2023-10-27 07:30:35.092364	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:30:45.823396	FAN -> 	Temperature=17.1°, Humidity=95.5%
+2023-10-27 07:30:45.823664	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:30:45.823766	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:31:38.147903	HEAT-> 	Temperature=17.1°, Humidity=95.6%
+2023-10-27 07:31:38.148179	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:31:46.349189	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:31:46.349462	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:31:46.349564	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:32:38.673656	HEAT-> 	Temperature=17.1°, Humidity=95.5%
+2023-10-27 07:32:38.673930	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:32:46.875091	FAN -> 	Temperature=17.1°, Humidity=95.7%
+2023-10-27 07:32:46.875357	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:32:46.875460	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:33:39.199424	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:33:39.199677	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:33:47.400943	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:33:47.401240	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:33:47.401346	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:34:39.725104	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:34:39.725374	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:34:47.926807	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:34:47.927112	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:34:47.927215	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:35:40.250936	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:35:40.251228	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:35:48.452769	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:35:48.453048	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:35:48.453151	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:36:40.776703	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:36:40.776972	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:36:48.978601	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:36:48.978868	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:36:48.978993	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:37:41.302683	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:37:41.302911	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:37:49.504487	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:37:49.504757	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:37:49.504860	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:38:41.828739	HEAT-> 	Temperature=17.2°, Humidity=95.9%
+2023-10-27 07:38:41.828966	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:38:50.030345	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:38:50.030614	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:38:50.030717	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:39:42.354410	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:39:42.354683	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:39:50.556140	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:39:50.556474	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:39:50.556577	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:40:42.880128	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:40:42.880395	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:40:56.144071	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:40:56.144353	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:40:56.144457	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:41:43.405803	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:41:43.406051	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:41:56.669844	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:41:56.670122	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:41:56.670224	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:42:43.931653	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:42:43.931937	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:42:57.195704	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:42:57.195987	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:42:57.196092	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:43:44.457335	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:43:44.457606	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:43:57.721522	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:43:57.721795	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:43:57.721899	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:44:44.983159	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:44:44.983425	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:44:58.247478	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:44:58.247750	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:44:58.247853	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:45:45.508918	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:45:45.509172	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:45:58.773325	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:45:58.773599	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:45:58.773702	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:46:46.034619	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:46:46.034891	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:46:59.299285	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:46:59.299550	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:46:59.299640	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:47:46.560404	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:47:46.560679	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:47:59.825124	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:47:59.825386	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:47:59.825489	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:48:47.086117	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:48:47.086392	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:49:00.351042	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:49:00.351341	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:49:00.351446	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:49:47.611919	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:49:47.612214	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:50:00.876983	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:50:00.877252	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:50:00.877354	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:50:48.137758	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:50:48.138042	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:51:01.403134	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:51:01.403400	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:51:01.403502	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:51:48.663646	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:51:48.663916	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:52:01.929354	FAN -> 	Temperature=17.2°, Humidity=95.9%
+2023-10-27 07:52:01.929591	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:52:01.929680	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:52:51.714489	HEAT-> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:52:51.714757	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:53:02.455475	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:53:02.455753	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:53:02.455856	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:53:52.240581	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:53:52.240832	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:54:02.981232	FAN -> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:54:02.981501	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:54:02.981603	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:54:52.766540	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:54:52.766807	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:55:03.507020	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:55:03.507332	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:55:03.507442	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:55:53.292347	HEAT-> 	Temperature=17.3°, Humidity=95.7%
+2023-10-27 07:55:53.292654	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:56:04.032825	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:56:04.033112	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:56:04.033215	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:56:53.817497	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:56:53.817650	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:57:04.558001	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:57:04.558168	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:57:04.558208	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:57:54.342419	HEAT-> 	Temperature=17.2°, Humidity=95.8%
+2023-10-27 07:57:54.342583	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:58:07.610405	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:58:07.610550	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:58:07.610588	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:58:54.867284	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:58:54.867422	HEAT:	Waiting for 1 minute before next check
+2023-10-27 07:59:10.660528	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 07:59:10.660832	FAN : 	No criteria activated - keeping fan off
+2023-10-27 07:59:10.660936	FAN :	Waiting for 1 minute before next check
+2023-10-27 07:59:55.392200	HEAT-> 	Temperature=17.2°, Humidity=95.6%
+2023-10-27 07:59:55.392351	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:00:02.246568	LGHT: 	ON
+2023-10-27 08:00:11.185724	FAN -> 	Temperature=17.2°, Humidity=95.7%
+2023-10-27 08:00:11.185898	FAN :	Temperature/Humidity criteria activated
+2023-10-27 08:00:11.185958	FAN -> 	Speed set to 96.0%
+2023-10-27 08:00:11.186001	FAN : 	ON at 96.0%
+2023-10-27 08:00:11.186036	FAN :	Speed set to 96.0%
+2023-10-27 08:00:31.710779	FAN :	Speed set to 96.0%
+2023-10-27 08:00:52.235526	FAN :	Speed set to 94.7%
+2023-10-27 08:00:55.917718	HEAT-> 	Temperature=17.3°, Humidity=94.8%
+2023-10-27 08:00:55.917985	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:01:12.760377	FAN :	Speed set to 93.2%
+2023-10-27 08:01:33.285119	FAN :	Speed set to 91.4%
+2023-10-27 08:01:53.809911	FAN :	Speed set to 91.2%
+2023-10-27 08:01:56.443428	HEAT-> 	Temperature=17.3°, Humidity=91.6%
+2023-10-27 08:01:56.443788	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:02:14.334692	FAN :	Speed set to 89.8%
+2023-10-27 08:02:34.859465	FAN :	Speed set to 88.2%
+2023-10-27 08:02:56.968459	HEAT-> 	Temperature=17.4°, Humidity=90.1%
+2023-10-27 08:02:56.968618	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:02:57.910838	FAN :	Speed set to 87.6%
+2023-10-27 08:03:18.436113	FAN :	Max time reached - going in standby for 5.0 minutes
+2023-10-27 08:03:57.493992	HEAT-> 	Temperature=17.4°, Humidity=89.6%
+2023-10-27 08:03:57.494281	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:04:58.019628	HEAT-> 	Temperature=17.5°, Humidity=89.6%
+2023-10-27 08:04:58.019905	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:05:58.545432	HEAT-> 	Temperature=17.5°, Humidity=88.9%
+2023-10-27 08:05:58.545710	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:06:59.071053	HEAT-> 	Temperature=17.6°, Humidity=88.8%
+2023-10-27 08:06:59.071324	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:08:02.126494	HEAT-> 	Temperature=17.8°, Humidity=88.0%
+2023-10-27 08:08:02.126757	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:08:18.961567	FAN :	Temperature=17.8°, Humidity=88.0%
+2023-10-27 08:08:18.961824	FAN :	Max time reached - turning off fan
+2023-10-27 08:08:18.961931	FAN : 	OFF
+2023-10-27 08:08:18.962025	FAN :	Waiting for 10.0 minutes
+2023-10-27 08:09:02.652184	HEAT-> 	Temperature=17.8°, Humidity=87.9%
+2023-10-27 08:09:02.652447	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:10:03.177916	HEAT-> 	Temperature=17.8°, Humidity=88.0%
+2023-10-27 08:10:03.178123	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:11:03.703810	HEAT-> 	Temperature=18.0°, Humidity=87.8%
+2023-10-27 08:11:03.704076	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:12:04.229472	HEAT-> 	Temperature=18.3°, Humidity=87.6%
+2023-10-27 08:12:04.229754	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:13:04.755249	HEAT-> 	Temperature=18.3°, Humidity=87.5%
+2023-10-27 08:13:04.755516	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:14:05.280765	HEAT-> 	Temperature=18.5°, Humidity=86.8%
+2023-10-27 08:14:05.281064	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:15:05.806385	HEAT-> 	Temperature=18.6°, Humidity=86.9%
+2023-10-27 08:15:05.806664	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:16:06.332082	HEAT-> 	Temperature=18.6°, Humidity=86.5%
+2023-10-27 08:16:06.332355	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:17:06.857598	HEAT-> 	Temperature=18.9°, Humidity=86.4%
+2023-10-27 08:17:06.857946	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:18:07.382530	HEAT-> 	Temperature=18.9°, Humidity=86.4%
+2023-10-27 08:18:07.382705	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:18:18.962326	FAN :	Waiting for 1 minute before next check
+2023-10-27 08:19:07.907691	HEAT-> 	Temperature=18.9°, Humidity=86.3%
+2023-10-27 08:19:07.907887	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:19:19.488105	FAN -> 	Temperature=19.0°, Humidity=86.0%
+2023-10-27 08:19:19.488442	FAN :	Temperature/Humidity criteria activated
+2023-10-27 08:19:19.488594	FAN -> 	Speed set to 81.5%
+2023-10-27 08:19:19.488726	FAN : 	ON at 81.5%
+2023-10-27 08:19:19.488844	FAN :	Speed set to 81.5%
+2023-10-27 08:19:42.538918	FAN :	Speed set to 81.5%
+2023-10-27 08:20:03.064306	FAN :	Speed set to 81.4%
+2023-10-27 08:20:08.433251	HEAT-> 	Temperature=19.1°, Humidity=85.6%
+2023-10-27 08:20:08.433542	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:20:23.589951	FAN :	Speed set to 80.0%
+2023-10-27 08:20:44.114766	FAN :	Speed set to 80.0%
+2023-10-27 08:21:04.640204	FAN :	Speed set to 80.0%
+2023-10-27 08:21:08.958150	HEAT-> 	Temperature=19.0°, Humidity=83.6%
+2023-10-27 08:21:08.958294	HEAT:	Waiting for 1 minute before next check
+2023-10-27 08:21:25.165959	FAN :	Speed set to 80.0%
+2023-10-27 08:21:50.749821	FAN :	Speed set to 80.0%
+2023-10-27 08:22:11.275512	FAN :	Speed set to 80.0%
+2023-10-27 08:22:12.009389	HEAT-> 	Temperature=18.9°, Humidity=82.9%
+2023-10-27 08:22:12.010535	HEAT:	Waiting for 1 minute before next check
