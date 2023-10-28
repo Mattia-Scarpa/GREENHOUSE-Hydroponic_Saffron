@@ -4656,3 +4656,28 @@ Fan thread started
 2023-10-28 16:48:35.117781	FAN :	Waiting for 1 minute before next check
 2023-10-28 16:49:00.638587	HEAT-> 	Temperature=23.0°, Humidity=58.1%
 2023-10-28 16:49:00.639224	HEAT:	Waiting for 1 minute before next check
+2023-10-28 16:49:35.643090	FAN -> 	Temperature=23.1°, Humidity=58.3%
+2023-10-28 16:49:35.643709	FAN : 	No criteria activated - keeping fan off
+2023-10-28 16:49:35.644128	FAN :	Waiting for 1 minute before next check
+2023-10-28 16:50:01.164674	HEAT-> 	Temperature=23.1°, Humidity=58.4%
+2023-10-28 16:50:01.166622	HEAT:	Waiting for 1 minute before next check
+2023-10-28 16:50:36.169890	FAN -> 	Temperature=23.1°, Humidity=58.7%
+2023-10-28 16:50:36.170252	FAN : 	No criteria activated - keeping fan off
+2023-10-28 16:50:36.170383	FAN :	Waiting for 1 minute before next check
+2023-10-28 16:51:01.693156	HEAT-> 	Temperature=23.1°, Humidity=59.4%
+2023-10-28 16:51:01.693462	HEAT:	Waiting for 1 minute before next check
+2023-10-28 16:51:36.695214	FAN -> 	Temperature=23.1°, Humidity=59.3%
+2023-10-28 16:51:36.695385	FAN : 	No criteria activated - keeping fan off
+2023-10-28 16:51:36.695435	FAN :	Waiting for 1 minute before next check
+2023-10-28 16:52:04.742552	HEAT-> 	Temperature=23.2°, Humidity=59.8%
+2023-10-28 16:52:04.743451	HEAT:	Waiting for 1 minute before next check
+2023-10-28 16:52:37.220817	FAN -> 	Temperature=23.2°, Humidity=59.9%
+2023-10-28 16:52:37.221010	FAN : 	No criteria activated - keeping fan off
+2023-10-28 16:52:37.221069	FAN :	Waiting for 1 minute before next check
+2023-10-28 16:53:05.268975	HEAT-> 	Temperature=23.2°, Humidity=60.2%
+2023-10-28 16:53:05.269312	HEAT:	Waiting for 1 minute before next check
+2023-10-28 16:53:37.746359	FAN -> 	Temperature=23.2°, Humidity=60.7%
+2023-10-28 16:53:37.746703	FAN : 	No criteria activated - keeping fan off
+2023-10-28 16:53:37.746841	FAN :	Waiting for 1 minute before next check
+2023-10-28 16:54:05.794692	HEAT-> 	Temperature=23.2°, Humidity=60.7%
+2023-10-28 16:54:05.796706	HEAT:	Waiting for 1 minute before next check
