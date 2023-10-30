@@ -1,10 +1,17 @@
-import Adafruit_DHT
 import control_class as cc
 import time
 import RPi.GPIO as GPIO
 import threading
+import signal
 import sys
 
+
+def handle_sigterm(signum, frame):
+    print("Program killed, cleaning  GPIO")
+    GPIO.cleanup()
+    sys.exit(0)
+
+signal.signal(signal.SIGTERM, handle_sigterm) # set handler for SIGTERM
 
 def manage_airstone():
     print("Airstone thread started")
