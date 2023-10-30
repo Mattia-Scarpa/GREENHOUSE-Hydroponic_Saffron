@@ -5,6 +5,7 @@ import RPi.GPIO as GPIO
 import threading
 import sys
 
+
 def manage_airstone():
     print("Airstone thread started")
     while True:

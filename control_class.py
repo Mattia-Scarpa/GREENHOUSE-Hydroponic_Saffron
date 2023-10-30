@@ -33,8 +33,35 @@ ZC_PIN_DIMMER = 25
 
 ##################### DEFINE PARAMETERS #######################
 # Temperature parameters
-T_THRESHOLD_OFF = 24.0 # temperature threshold to turn off heater
-T_THRESHOLD_ON = 17.0 # temperature threshold to turn on heater
+TEMP_HEATER_THRESHOLD_OFF = 24.0 # temperature threshold to turn off heater
+TEMP_HEATER_THRESHOLD_ON = 17.0 # temperature threshold to turn on heater
+
+# Light parameters
+LIGHT_ON = 7 # light on at 7am
+LIGHT_OFF = 19 # light off at 7pm
+
+# Fan parameters
+TEMP_FAN_THRESHOLD_HIGH = 25.0 # temperature threshold to turn on fan
+TEMP_FAN_THRESHOLD_LOW = 20.0 # temperature threshold to turn off fan
+
+H_FAN_THRESHOLD_HIGH = 85.0 # humidity threshold to turn on fan
+H_FAN_THRESHOLD_LOW = 80.0 # humidity threshold to turn off fan
+
+T_FAN_MAX_TIME = 180.0 # maximum time for fan to be on
+T_FAN_WAIT_TIME = 600.0 # time to wait before next fan activation
+T_FAN_STANDBY_TIME = 300.0 # time to wait before next fan activation
+
+T_START_HOUR = 8 # start hour for fan activation
+T_STOP_HOUR = 22 # stop hour for fan activation
+
+# Airstone parameters
+AIRSTONE_ON = 4 # airstone on at 4am
+AIRSTONE_OFF = 21 # airstone off at 9pm
+
+# Water pump parameters
+WATER_PUMP_ON = 6 # water pump on at 6am
+WATER_PUMP_OFF = 18 # water pump off at 6pm
+
 
 
 class DHT22_Sensor():
@@ -65,8 +92,8 @@ class Heater():
     def __init__(self):
 
 
-        self.T_high = T_THRESHOLD_OFF
-        self.T_low = T_THRESHOLD_ON
+        self.T_high = TEMP_HEATER_THRESHOLD_OFF
+        self.T_low = TEMP_HEATER_THRESHOLD_ON
 
         GPIO.setmode(GPIO.BCM) # GPIO numbering
         GPIO.setup(RELAY_PIN_HEATER, GPIO.OUT) # set GPIO27 as output
@@ -110,14 +137,13 @@ class Heater():
         print(f"{datetime.datetime.now()}\tHEAT:\tWaiting for {1} minute before next check")
         time.sleep(50)        
 
-
 class Light(): 
 
     def __init__(self):
 
         self.light_status = False # light off
-        self.time_on = 7
-        self.time_off = 19
+        self.time_on = LIGHT_ON
+        self.time_off = LIGHT_ON
 
         GPIO.setmode(GPIO.BCM) # GPIO numbering
         GPIO.setup(RELAY_PIN_LIGHT, GPIO.OUT) # set GPIO17 as output
@@ -165,18 +191,18 @@ class Fan():
     def __init__(self):
 
         self.fan_status = True # fan virtually on
-        self.T_high = 25.0
-        self.T_low = 20.0
+        self.T_high = TEMP_FAN_THRESHOLD_HIGH
+        self.T_low = TEMP_FAN_THRESHOLD_LOW
 
-        self.H_high = 85.0
-        self.H_low = 80.0
+        self.H_high = H_FAN_THRESHOLD_HIGH
+        self.H_low = H_FAN_THRESHOLD_LOW
 
-        self.t_max = 180.0
-        self.t_wait = 600.0
-        self.t_standby = 300.0
+        self.t_max = T_FAN_MAX_TIME
+        self.t_wait = T_FAN_WAIT_TIME
+        self.t_standby = T_FAN_WAIT_TIME
 
-        self.start_hour = 8
-        self.stop_hour = 22
+        self.start_hour = T_START_HOUR
+        self.stop_hour = T_STOP_HOUR
 
         self.base_speed = 80.0
         self.speed_percentage = self.base_speed
@@ -199,7 +225,7 @@ class Fan():
         GPIO.add_event_detect(ZC_PIN_DIMMER, GPIO.RISING, callback=self.callback_zerocross)
 
         print("FAN : \tINITIALIZED")
-        self.fan_off() # fan off
+        self.fan_standby() # fan off
 
 
     #def callback_zerocross(self, channel):
@@ -209,7 +235,7 @@ class Fan():
 
     def callback_zerocross(self, channel):
 
-        delay_fan_1 = 0.019 * (100 - self.speed_percentage*.95) / 100 # delay fan 1 
+        delay_fan_1 = 0.019 * (100 - self.speed_percentage)*.95 / 100 # delay fan 1 
         delay_fan_2 = 0.019 * (100 - self.speed_percentage) / 100 # delay fan 2
 
         time.sleep(max(delay_fan_1, delay_fan_2)) # wait for the appropriate delay
@@ -250,7 +276,7 @@ class Fan():
         self.speed_percentage = self.base_speed
         if not self.fan_status:
             print(f"{datetime.datetime.now()}\tFAN : \tON at {self.speed_percentage:.1f}%") 
-        self.fan_status = True
+        self.fan_status = False
 
     def fan_off(self):
         GPIO.output(RELAY_PIN_FAN, GPIO.HIGH)
@@ -284,67 +310,68 @@ class Fan():
     
         
     def fan_auto(self):
-    
-        # check temperature and humidity
-        temperature, humidity = self.DHT22_sensor.read_sensor()
-        print(f"{datetime.datetime.now()}\tFAN -> \tTemperature={temperature:.1f}°, Humidity={humidity:.1f}%")
 
-        if (((datetime.datetime.now().minute % 20) < 2) and (datetime.datetime.now().hour >= self.start_hour and datetime.datetime.now().hour < self.stop_hour)) and not self.fan_status and temperature > self.T_low:
-            print(f"{datetime.datetime.now()}\tFAN -\tTime criteria activated")
-            # activate fan for 2 minutes
-            t0 = time.time()
-            while time.time()-t0 < 120: # 2 minutes
-                self.speed_percentage = self.base_speed + 10 # set fan speed to 90% by default
-                self.fan_on() # turn on fan
-                time.sleep(1) # wait for 1 seconds
-            print(f"{datetime.datetime.now()}\tFAN :\tMax time reached - turning off fan")
-            self.fan_off() # turn off fan
+            # check temperature and humidity
+            temperature, humidity = self.DHT22_sensor.read_sensor()
+            print(f"{datetime.datetime.now()}\tFAN -> \tTemperature={temperature:.1f}°, Humidity={humidity:.1f}%")
 
-        elif (temperature > self.T_high and temperature > self.T_low) or humidity > self.H_high and (datetime.datetime.now().hour >= self.start_hour and datetime.datetime.now().hour < self.stop_hour) and not self.fan_status: #  or humidity > self.H_high
-            print(f"{datetime.datetime.now()}\tFAN :\tTemperature/Humidity criteria activated")
-            # activate fan for at most t_max seconds
-            t0 = time.time()
-            while time.time()-t0 < self.t_max:
-                self.set_fan_speed(temperature, humidity) # compute fan speed
-                self.fan_on() # turn on fan
-                print(f"{datetime.datetime.now()}\tFAN :\tSpeed set to {self.speed_percentage:.1f}%")
-                time.sleep(20) # wait for 20 seconds
-                temperature, humidity = self.DHT22_sensor.read_sensor()
-                
-            # check for a second cycle if temperature and humidity are still above threshold
-            if (temperature > self.T_high and temperature > self.T_low) or humidity > self.H_high:
-                # go in standby for t_standby seconds
-                print(f"{datetime.datetime.now()}\tFAN :\tMax time reached - going in standby for {self.t_standby/60} minutes")
-                self.fan_standby()
-                time.sleep(self.t_standby) # wait for t_standby seconds
+            if (((datetime.datetime.now().minute % 30) < 2) and (datetime.datetime.now().hour >= self.start_hour and datetime.datetime.now().hour < self.stop_hour)) and not self.fan_status and temperature > self.T_low-5:
+                print(f"{datetime.datetime.now()}\tFAN -\tTime criteria activated")
+                # activate fan for 2 minutes
+                t0 = time.time()
+                while time.time()-t0 < 120: # 2 minutes
+                    self.speed_percentage = self.base_speed + 10 # set fan speed to 90% by default
+                    self.fan_on() # turn on fan
+                    time.sleep(1) # wait for 1 seconds
+                print(f"{datetime.datetime.now()}\tFAN :\tMax time reached - turning off fan")
+                self.fan_standby() # turn off fan
 
-                # reacquire temperature and humidity
-                temperature, humidity = self.DHT22_sensor.read_sensor()
-                print(f"{datetime.datetime.now()}\tFAN :\tTemperature={temperature:.1f}°, Humidity={humidity:.1f}%")
-                # check if temperature and humidity are still above threshold
-                if temperature > self.T_high and humidity > self.H_high:
-                    # activate fan for at most t_max seconds
-                    t0 = time.time()
-                    while time.time()-t0 < self.t_max:
-                        self.set_fan_speed(temperature, humidity)
-                        self.fan_on() # turn on fan
-                        time.sleep(20) # wait for 20 seconds
+            elif (temperature > self.T_high and temperature > self.T_low) or humidity > self.H_high and (datetime.datetime.now().hour >= self.start_hour and datetime.datetime.now().hour < self.stop_hour) and not self.fan_status: #  or humidity > self.H_high
+                print(f"{datetime.datetime.now()}\tFAN :\tTemperature/Humidity criteria activated")
+                # activate fan for at most t_max seconds
+                t0 = time.time()
+                while time.time()-t0 < self.t_max:
+                    self.set_fan_speed(temperature, humidity) # compute fan speed
+                    self.fan_on() # turn on fan
+                    print(f"{datetime.datetime.now()}\tFAN :\tSpeed set to {self.speed_percentage:.1f}%")
+                    time.sleep(20) # wait for 20 seconds
+                    temperature, humidity = self.DHT22_sensor.read_sensor()
+
+                # check for a second cycle if temperature and humidity are still above threshold
+                if (temperature > self.T_high and temperature > self.T_low) or humidity > self.H_high:
+                    # go in standby for t_standby seconds
+                    print(f"{datetime.datetime.now()}\tFAN :\tMax time reached - going in standby for {self.t_standby/60} minutes")
+                    self.fan_standby()
+                    time.sleep(self.t_standby) # wait for t_standby seconds
+
+                    # reacquire temperature and humidity
+                    temperature, humidity = self.DHT22_sensor.read_sensor()
+                    print(f"{datetime.datetime.now()}\tFAN :\tTemperature={temperature:.1f}°, Humidity={humidity:.1f}%")
+                    # check if temperature and humidity are still above threshold
+                    if temperature > self.T_high or humidity > self.H_high:
+                        # activate fan for at most t_max seconds
+                        print(f"{datetime.datetime.now()}\tFAN :\tTemperature/Humidity criteria activated")
+                        t0 = time.time()
+                        while time.time()-t0 < self.t_max:
+                            self.set_fan_speed(temperature, humidity)
+                            self.fan_on() # turn on fan
+                            time.sleep(20) # wait for 20 seconds
 
 
-            print(f"{datetime.datetime.now()}\tFAN :\tMax time reached - turning off fan")
-            self.fan_off() # turn off fan
-            print(f"{datetime.datetime.now()}\tFAN :\tWaiting for {self.t_wait/60} minutes")
-            time.sleep(self.t_wait) # wait for t_wait seconds
-        elif not self.fan_status:
-            print(f"{datetime.datetime.now()}\tFAN : \tNo criteria activated - keeping fan off")
-            self.fan_off()
-        else:
-            print(f"{datetime.datetime.now()}\tFAN : \tNo criteria activated - Shutting down fan")
-            self.fan_off()
-        
-        print(f"{datetime.datetime.now()}\tFAN :\tWaiting for {1} minute before next check")
-        time.sleep(50)        
-        return
+                print(f"{datetime.datetime.now()}\tFAN :\tMax time reached - turning off fan")
+                self.fan_off() # turn off fan
+                print(f"{datetime.datetime.now()}\tFAN :\tWaiting for {self.t_wait/60} minutes")
+                time.sleep(self.t_wait) # wait for t_wait seconds
+            elif not self.fan_status:
+                print(f"{datetime.datetime.now()}\tFAN : \tNo criteria activated - keeping fan off")
+                self.fan_off()
+            else:
+                print(f"{datetime.datetime.now()}\tFAN : \tNo criteria activated - Shutting down fan")
+                self.fan_off()
+
+            print(f"{datetime.datetime.now()}\tFAN :\tWaiting for {1} minute before next check")
+            time.sleep(50)        
+            return
 
 
 class Airstone():
@@ -353,8 +380,8 @@ class Airstone():
 
         self.airstone_status = False
 
-        self.start_hour = 4
-        self.stop_hour = 21
+        self.start_hour = AIRSTONE_ON
+        self.stop_hour = AIRSTONE_OFF
 
         GPIO.setmode(GPIO.BCM)
         GPIO.setup(RELAY_PIN_AIRSTONE, GPIO.OUT)
@@ -391,8 +418,8 @@ class WaterPump():
 
         self.waterpump_status = True # water pump virtually on
 
-        self.start_hour = 6
-        self.stop_hour = 18
+        self.start_hour = WATER_PUMP_ON
+        self.stop_hour = WATER_PUMP_OFF
 
         GPIO.setmode(GPIO.BCM)
         GPIO.setup(RELAY_PIN_WATER_PUMP, GPIO.OUT)
