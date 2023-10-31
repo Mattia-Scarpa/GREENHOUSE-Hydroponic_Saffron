@@ -143,7 +143,7 @@ class Light():
 
         self.light_status = False # light off
         self.time_on = LIGHT_ON
-        self.time_off = LIGHT_ON
+        self.time_off = LIGHT_OFF
 
         GPIO.setmode(GPIO.BCM) # GPIO numbering
         GPIO.setup(RELAY_PIN_LIGHT, GPIO.OUT) # set GPIO17 as output
