@@ -52,7 +52,7 @@ T_FAN_WAIT_TIME = 600.0 # time to wait before next fan activation
 T_FAN_STANDBY_TIME = 300.0 # time to wait before next fan activation
 
 T_START_HOUR = 8 # start hour for fan activation
-T_STOP_HOUR = 22 # stop hour for fan activation
+T_STOP_HOUR = 20 # stop hour for fan activation
 
 # Airstone parameters
 AIRSTONE_ON = 4 # airstone on at 4am
@@ -443,9 +443,15 @@ class WaterPump():
         t = time.localtime()
         hour = t.tm_hour
 
-        if (hour >= self.start_hour and hour < self.stop_hour) and not self.waterpump_status:
-            self.waterpump_on()
-        elif (hour < self.start_hour or hour >= self.stop_hour) and self.waterpump_status:
+        if hour >= self.start_hour and hour < self.stop_hour and not self.waterpump_status:
+
+            while time.localtime().tm_min < 20: # iterate for 20 minutes
+                self.waterpump_on()
+                time.sleep(60) # wait for 1 minute
+            
+            self.waterpump_off()
+        
+        else :
             self.waterpump_off()
         
         return
