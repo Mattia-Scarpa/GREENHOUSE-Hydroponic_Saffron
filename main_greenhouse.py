@@ -40,7 +40,7 @@ def manage_light():
 def manage_fan():
     print("Fan thread started")
     while True:
-        fan.fan_auto()
+        fan.fan_schedule()
         time.sleep(10)
 
 heater = cc.Heater()

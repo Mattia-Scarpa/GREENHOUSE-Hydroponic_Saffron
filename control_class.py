@@ -51,6 +51,8 @@ T_FAN_MAX_TIME = 180.0 # maximum time for fan to be on
 T_FAN_WAIT_TIME = 600.0 # time to wait before next fan activation
 T_FAN_STANDBY_TIME = 300.0 # time to wait before next fan activation
 
+FAN_BASE_SPEED = 80.0 # base speed for fan
+
 T_START_HOUR = 8 # start hour for fan activation
 T_STOP_HOUR = 20 # stop hour for fan activation
 
@@ -60,7 +62,7 @@ AIRSTONE_OFF = 21 # airstone off at 9pm
 
 # Water pump parameters
 WATER_PUMP_ON = 6 # water pump on at 6am
-WATER_PUMP_OFF = 18 # water pump off at 6pm
+WATER_PUMP_OFF = 20 # water pump off at 6pm
 
 
 
@@ -204,7 +206,7 @@ class Fan():
         self.start_hour = T_START_HOUR
         self.stop_hour = T_STOP_HOUR
 
-        self.base_speed = 80.0
+        self.base_speed = FAN_BASE_SPEED
         self.speed_percentage = self.base_speed
 
         # set up relay pin        
@@ -320,7 +322,7 @@ class Fan():
                 # activate fan for 2 minutes
                 t0 = time.time()
                 while time.time()-t0 < 120: # 2 minutes
-                    self.speed_percentage = self.base_speed + 10 # set fan speed to 90% by default
+                    self.speed_percentage = self.base_speed + 5 # set fan speed to 90% by default
                     self.fan_on() # turn on fan
                     time.sleep(1) # wait for 1 seconds
                 print(f"{datetime.datetime.now()}\tFAN :\tMax time reached - turning off fan")
@@ -372,6 +374,32 @@ class Fan():
             print(f"{datetime.datetime.now()}\tFAN :\tWaiting for {1} minute before next check")
             time.sleep(50)        
             return
+    
+    def fan_schedule(self):
+
+        # if month is between May and September activate fan from 8am to 9am
+        # if month is between October and April activate fan from 3pm to 4pm
+        # after both cases run standby mode for 1h then turn off fan
+    
+        month = datetime.datetime.now().month
+        if month >= 5 and month <= 9:
+            self.start_hour = 8
+            self.stop_hour = 9
+        else:
+            self.start_hour = 15
+            self.stop_hour = 16
+        # check time
+        t = time.localtime()
+        hour = t.tm_hour
+        
+        if hour >= self.start_hour and hour < self.stop_hour and not self.fan_status:
+            self.fan_on()
+        elif (hour >= self.stop_hour and hour < self.stop_hour+1) and self.fan_status:
+            self.fan_standby()
+        elif (hour < self.start_hour or hour >= self.stop_hour+1) and self.fan_status:
+            self.fan_off()
+        
+        return
 
 
 class Airstone():
@@ -445,7 +473,7 @@ class WaterPump():
 
         if hour >= self.start_hour and hour < self.stop_hour and not self.waterpump_status:
 
-            while time.localtime().tm_min < 20: # iterate for 20 minutes
+            while time.localtime().tm_min < 45: # iterate for 45 minutes
                 self.waterpump_on()
                 time.sleep(60) # wait for 1 minute
             
